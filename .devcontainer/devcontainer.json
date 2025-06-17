@@ -1,0 +1,33 @@
+{
+  // A human‐friendly name for the container
+  "name": "Python 3.11 Dev",
+
+  // Build from the Dockerfile in the same folder
+  "dockerFile": "Dockerfile",
+
+  // VS Code settings scoped to this container
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+
+  // Automatically install these VS Code extensions inside the container
+  "extensions": [
+    "ms-python.python",           // Python language support
+    "ms-python.vscode-pylance",   // Fast, type-aware Python analysis
+    "ms-azuretools.vscode-docker" // Dockerfile and container tooling
+  ],
+
+  // Once the container is up, run this command in the terminal
+  // e.g. install your Python dependencies
+  "postCreateCommand": "pip install -r requirements.txt",
+
+  // Forward this port from the container to the host
+  // so that uvicorn (port 8000) is accessible in Codespaces
+  "forwardPorts": [8000],
+
+  // Mount the workspace folder at /workspace
+  "workspaceFolder": "/workspace",
+
+  // (Optional) Mount local folders or secrets, e.g. for private env files
+  // "mounts": [ "source=..."]
+}
