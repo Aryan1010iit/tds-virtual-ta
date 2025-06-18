@@ -1,0 +1,1283 @@
+{
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Tools in Data Science"
+    },
+    {
+      "tag": "h1",
+      "text": "Tools in Data Science - Jan 2025"
+    },
+    {
+      "tag": "h2",
+      "text": "We cover 7 modules in 12 weeks"
+    },
+    {
+      "tag": "h2",
+      "text": "Evaluations are mostly open Internet"
+    },
+    {
+      "tag": "h3",
+      "text": "Updates"
+    },
+    {
+      "tag": "h3",
+      "text": "Notes"
+    },
+    {
+      "tag": "h2",
+      "text": "Constantly check communications"
+    },
+    {
+      "tag": "h2",
+      "text": "People who help you"
+    },
+    {
+      "tag": "h2",
+      "text": "Course Links"
+    },
+    {
+      "tag": "h2",
+      "text": "Jan 2025 Links"
+    }
+  ],
+  "paragraphs": [
+    "Tools in Data Scienceis a practical diploma level data science course at IIT Madras that teaches\npopular tools for sourcing data, transforming it, analyzing it, communicating these as visual stories, and deploying them in production.",
+    "Courses teach you programming and data science. From statistics to algorithms to writing Python code to building models.",
+    "But one critical subject that’s rarely covered is: what tools should I pick and how do I become proficient in them?",
+    "These tools might not help your CV much. But they will make things easier in real life. For example, at school:",
+    "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+    "In this course, we’ve curated the most important tools people use in data science.",
+    "Learn them well. You’ll be alotmore productivethan your peers.",
+    "Here’s students’ feedback:",
+    "Take Graded assignment 1to check if you’re ready for this course.Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+    "You need agoodunderstanding of Python, JavaScript, HTML, HTTP, Excel, and data science concepts.",
+    "But isn’t this a data science course?Yes. Good data scientists are good programmers. Data scientists don’t just analyze data or train models. They source data, clean it, transform it, visualize it, deploy it, and automate the whole process.",
+    "In some organizations, some of this work is done by others (e.g. data engineers, IT teams, etc.). But wherever you are,someof the time, you need to write code for all of this yourself.",
+    "This course teaches you tools that will make you more productive. But youdoneed programming to learn many of them.",
+    "YouCANcopy from friends. You can work in groups. You can share code. Even in projects, assignments, and exams (except the final end-term exam).",
+    "Why should you copy?Because in real life, there’s no time to re-invent the wheel. You’ll be working in teams on the shoulders of giants. It’s important to learn how to do that well.",
+    "To learn well, understandwhat you’re copying. If you’re short of time, prioritize.",
+    "To learn better, teachwhat you’ve learnt.",
+    "The content evolves with technology and feedback.\nTrack thecommit historyfor changes.",
+    "Released content:",
+    "Project 1to build an LLM-based automation agent.Discussion Thread",
+    "Work in progress:",
+    "Check these three links regularly to keep up with the course.",
+    "Theirjobis to help you. Trouble them for your slightest doubts!"
+  ],
+  "lists": [
+    [
+      "Jan 2025: Tools in Data Science",
+      "Development ToolsEditor: VS CodePython tools: uvJavaScript tools: npxUnicodeBrowser: DevToolsCSS SelectorsJSONTerminal: BashSpreadsheet: Excel, Google SheetsDatabase: SQLiteVersion Control: Git, GitHub",
+      "Editor: VS Code",
+      "Python tools: uv",
+      "JavaScript tools: npx",
+      "Unicode",
+      "Browser: DevTools",
+      "CSS Selectors",
+      "JSON",
+      "Terminal: Bash",
+      "Spreadsheet: Excel, Google Sheets",
+      "Database: SQLite",
+      "Version Control: Git, GitHub",
+      "Deployment ToolsMarkdownImages: CompressionStatic hosting: GitHub PagesNotebooks: Google ColabServerless hosting: VercelCI/CD: GitHub ActionsContainers: Docker, PodmanTunneling: ngrokCORSREST APIsWeb Framework: FastAPILocal LLMs: Llamafile",
+      "Markdown",
+      "Images: Compression",
+      "Static hosting: GitHub Pages",
+      "Notebooks: Google Colab",
+      "Serverless hosting: Vercel",
+      "CI/CD: GitHub Actions",
+      "Containers: Docker, Podman",
+      "Tunneling: ngrok",
+      "CORS",
+      "REST APIs",
+      "Web Framework: FastAPI",
+      "Local LLMs: Llamafile",
+      "Large Language ModelsPrompt engineeringTDS TA InstructionsTDS GPT ReviewerLLM Sentiment AnalysisLLM Text ExtractionBase 64 EncodingVision ModelsEmbeddingsTopic modelingVector databasesRetrieval Augmented GenerationFunction Calling",
+      "Prompt engineering",
+      "TDS TA Instructions",
+      "TDS GPT Reviewer",
+      "LLM Sentiment Analysis",
+      "LLM Text Extraction",
+      "Base 64 Encoding",
+      "Vision Models",
+      "Embeddings",
+      "Topic modeling",
+      "Vector databases",
+      "Retrieval Augmented Generation",
+      "Function Calling",
+      "Project 1",
+      "Data SourcingScraping with ExcelScraping with Google SheetsBBC Weather API with PythonScraping IMDb with JavaScriptNominatim API with PythonWikipedia Data with PythonScraping PDFs with TabulaConvert PDFs to MarkdownLLM Website ScrapingLLM Video Screen-ScrapingScheduled Scraping with GitHub ActionsScraping emarketer.comScraping: Live Sessions",
+      "Scraping with Excel",
+      "Scraping with Google Sheets",
+      "BBC Weather API with Python",
+      "Scraping IMDb with JavaScript",
+      "Nominatim API with Python",
+      "Wikipedia Data with Python",
+      "Scraping PDFs with Tabula",
+      "Convert PDFs to Markdown",
+      "LLM Website Scraping",
+      "LLM Video Screen-Scraping",
+      "Scheduled Scraping with GitHub Actions",
+      "Scraping emarketer.com",
+      "Scraping: Live Sessions",
+      "Data PreparationData Cleansing in ExcelData Transformation in ExcelSplitting Text in ExcelData Aggregation in ExcelData Preparation in the ShellData Preparation in the EditorCleaning Data with OpenRefineProfiling Data with PythonParsing JSONTransforming ImagesExtracting Audio and Transcripts",
+      "Data Cleansing in Excel",
+      "Data Transformation in Excel",
+      "Splitting Text in Excel",
+      "Data Aggregation in Excel",
+      "Data Preparation in the Shell",
+      "Data Preparation in the Editor",
+      "Cleaning Data with OpenRefine",
+      "Profiling Data with Python",
+      "Parsing JSON",
+      "Transforming Images",
+      "Extracting Audio and Transcripts",
+      "Data AnalysisCorrelation with ExcelRegression with ExcelForecasting with ExcelOutlier Detection with ExcelData Analysis with PythonData Analysis with SQLData Analysis with DuckDBGeospatial Analysis with ExcelGeospatial Analysis with PythonGeospatial Analysis with QGISNetwork Analysis in PythonVisualizing Machine Learning",
+      "Correlation with Excel",
+      "Regression with Excel",
+      "Forecasting with Excel",
+      "Outlier Detection with Excel",
+      "Data Analysis with Python",
+      "Data Analysis with SQL",
+      "Data Analysis with DuckDB",
+      "Geospatial Analysis with Excel",
+      "Geospatial Analysis with Python",
+      "Geospatial Analysis with QGIS",
+      "Network Analysis in Python",
+      "Visualizing Machine Learning",
+      "Project 2",
+      "Data VisualizationVisualizing Forecasts with ExcelVisualizing Animated Data with PowerPointVisualizing Animated Data with FlourishVisualizing Network Data with KumuVisualizing Charts with ExcelData Visualization with SeabornGoogle ChartsGoogle Data StudioActor Network VisualizationRAWgraphsData StorytellingInteractive Notebooks: MarimoNarratives with ExcelNarratives with Comics",
+      "Visualizing Forecasts with Excel",
+      "Visualizing Animated Data with PowerPoint",
+      "Visualizing Animated Data with Flourish",
+      "Visualizing Network Data with Kumu",
+      "Visualizing Charts with Excel",
+      "Data Visualization with Seaborn",
+      "Google Charts",
+      "Google Data Studio",
+      "Actor Network Visualization",
+      "RAWgraphs",
+      "Data Storytelling",
+      "Interactive Notebooks: Marimo",
+      "Narratives with Excel",
+      "Narratives with Comics",
+      "Live Sessions15 Jan 202516 Jan 202517 Jan 202520 Jan 202521 Jan 202522 Jan 202523 Jan 202528 Jan 202529 Jan 202530 Jan 202531 Jan 202501 Feb 202504 Feb 202506 Feb 202507 Feb 2025",
+      "15 Jan 2025",
+      "16 Jan 2025",
+      "17 Jan 2025",
+      "20 Jan 2025",
+      "21 Jan 2025",
+      "22 Jan 2025",
+      "23 Jan 2025",
+      "28 Jan 2025",
+      "29 Jan 2025",
+      "30 Jan 2025",
+      "31 Jan 2025",
+      "01 Feb 2025",
+      "04 Feb 2025",
+      "06 Feb 2025",
+      "07 Feb 2025"
+    ],
+    [
+      "Editor: VS Code",
+      "Python tools: uv",
+      "JavaScript tools: npx",
+      "Unicode",
+      "Browser: DevTools",
+      "CSS Selectors",
+      "JSON",
+      "Terminal: Bash",
+      "Spreadsheet: Excel, Google Sheets",
+      "Database: SQLite",
+      "Version Control: Git, GitHub"
+    ],
+    [
+      "Markdown",
+      "Images: Compression",
+      "Static hosting: GitHub Pages",
+      "Notebooks: Google Colab",
+      "Serverless hosting: Vercel",
+      "CI/CD: GitHub Actions",
+      "Containers: Docker, Podman",
+      "Tunneling: ngrok",
+      "CORS",
+      "REST APIs",
+      "Web Framework: FastAPI",
+      "Local LLMs: Llamafile"
+    ],
+    [
+      "Prompt engineering",
+      "TDS TA Instructions",
+      "TDS GPT Reviewer",
+      "LLM Sentiment Analysis",
+      "LLM Text Extraction",
+      "Base 64 Encoding",
+      "Vision Models",
+      "Embeddings",
+      "Topic modeling",
+      "Vector databases",
+      "Retrieval Augmented Generation",
+      "Function Calling"
+    ],
+    [
+      "Scraping with Excel",
+      "Scraping with Google Sheets",
+      "BBC Weather API with Python",
+      "Scraping IMDb with JavaScript",
+      "Nominatim API with Python",
+      "Wikipedia Data with Python",
+      "Scraping PDFs with Tabula",
+      "Convert PDFs to Markdown",
+      "LLM Website Scraping",
+      "LLM Video Screen-Scraping",
+      "Scheduled Scraping with GitHub Actions",
+      "Scraping emarketer.com",
+      "Scraping: Live Sessions"
+    ],
+    [
+      "Data Cleansing in Excel",
+      "Data Transformation in Excel",
+      "Splitting Text in Excel",
+      "Data Aggregation in Excel",
+      "Data Preparation in the Shell",
+      "Data Preparation in the Editor",
+      "Cleaning Data with OpenRefine",
+      "Profiling Data with Python",
+      "Parsing JSON",
+      "Transforming Images",
+      "Extracting Audio and Transcripts"
+    ],
+    [
+      "Correlation with Excel",
+      "Regression with Excel",
+      "Forecasting with Excel",
+      "Outlier Detection with Excel",
+      "Data Analysis with Python",
+      "Data Analysis with SQL",
+      "Data Analysis with DuckDB",
+      "Geospatial Analysis with Excel",
+      "Geospatial Analysis with Python",
+      "Geospatial Analysis with QGIS",
+      "Network Analysis in Python",
+      "Visualizing Machine Learning"
+    ],
+    [
+      "Visualizing Forecasts with Excel",
+      "Visualizing Animated Data with PowerPoint",
+      "Visualizing Animated Data with Flourish",
+      "Visualizing Network Data with Kumu",
+      "Visualizing Charts with Excel",
+      "Data Visualization with Seaborn",
+      "Google Charts",
+      "Google Data Studio",
+      "Actor Network Visualization",
+      "RAWgraphs",
+      "Data Storytelling",
+      "Interactive Notebooks: Marimo",
+      "Narratives with Excel",
+      "Narratives with Comics"
+    ],
+    [
+      "15 Jan 2025",
+      "16 Jan 2025",
+      "17 Jan 2025",
+      "20 Jan 2025",
+      "21 Jan 2025",
+      "22 Jan 2025",
+      "23 Jan 2025",
+      "28 Jan 2025",
+      "29 Jan 2025",
+      "30 Jan 2025",
+      "31 Jan 2025",
+      "01 Feb 2025",
+      "04 Feb 2025",
+      "06 Feb 2025",
+      "07 Feb 2025"
+    ],
+    [
+      "You learn from pristine datasets. But in the industry, you’ll have to scrape them yourself.",
+      "You learn how to train models. But soon, you’ll just pick something from HuggingFace.",
+      "You learn to write a log parser over weeks. Instead, your boss writes ased+grepscript in minutes."
+    ],
+    [
+      "Itusedto be an easy course until 2024.###",
+      "Now it’s hard and covers more. Take it in your last semester if possible.###",
+      "Plan extra time. It takes more time than typical 3-credit courses.###",
+      "LLMs grade you – unpredictably.##",
+      "The ROE is hard.#"
+    ],
+    [
+      "Development Toolsand concepts tobuildmodels and apps.Discussion Thread",
+      "Deployment Toolsand concepts topublishwhat you built.Discussion Thread",
+      "Large Language Modelsthat make your work easier and your apps smarter.Discussion Thread",
+      "Data Sourcingto get data from the web, files, and databases.Discussion Thread",
+      "Data Preparationto clean up and convert the inputs to the right format.Discussion Thread"
+    ],
+    [
+      "Data Analysisto find surprising insights in the data.",
+      "Data Visualizationto communicate those insights as visual stories."
+    ],
+    [
+      "13 Jan 2025: GA3 release date moved from 10 Jan 2025 to 15 Jan 2025 due to faculty delay. Students have till 2 Feb 2025 - more than the 10 days expected for a GA.",
+      "22 Jan 2025: GA2 submission date moved from 26 Jan 2025 to 2 Feb 2025. GA4 release date is moved from 24 Jan 2025 to 31 Jan 2025. This is to reduce the amount students have to learn in a short period.",
+      "29 Jan 2025: GA3 submission date moved from 2 Feb 2025 to 5 Feb 2025.",
+      "13 Feb 2025: GA5 submission date moved from 16 Feb 2025 to 21 Feb 2025.",
+      "15 Feb 2025: Project 1 deadline moved from 15 Jan 2025 to 16 Feb 2025.",
+      "26 Feb 2025:Project 1 results will be released by 16 Mar 2025.Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.",
+      "Project 1 results will be released by 16 Mar 2025.",
+      "Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.",
+      "Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.",
+      "Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025.",
+      "7 Mar 2025: GA7 release date moved from 7 Mar to 14 Mar 2025."
+    ],
+    [
+      "Project 1 results will be released by 16 Mar 2025.",
+      "Graded Assignment 6 moved from 14 Feb to 28 Feb 2025. Submission date moved from 9 Mar to 16 Mar 2025.",
+      "Project 2 moved from 21 Feb to 3 Mar 2025. Submission date moved from 17 Mar to 31 Mar 2025.",
+      "Graded Assignment 7 moved from 28 Feb to 7 Mar 2025. Submission date moved from 16 Mar to 26 Mar 2025."
+    ],
+    [
+      "Graded Assignment 1checks course pre-requisites. Please drop this course (do it in a later term) if you score low. It’ll be too tough for you now.",
+      "‡Graded Assignments: Best 4 out 7. We’ll take the best 4 out of your graded assignments submissions. These, combined, will have a 15% weightage.",
+      "Remote exams are open and hardYou can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…The RoE is especially hard. Read:What is the purpose of an impossible RoE exam?",
+      "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…",
+      "The RoE is especially hard. Read:What is the purpose of an impossible RoE exam?",
+      "Final exam is in-person and closed book. It tests your memory. It’s easy.",
+      "Projects test application. The projects test how well you apply what you learnt in a real-world context.",
+      "Bonus activities may be posted on Discourse. Seeprevious bonus activities",
+      "Evaluations are mostly automated. This course uses pre-computed (for objective) or LLMs (for subjective) evaluations.LLMs will evaluate you differently each time. Learn to prompt themrobustlyto get higher marks.",
+      "LLMs will evaluate you differently each time. Learn to prompt themrobustlyto get higher marks."
+    ],
+    [
+      "You can use the Internet, WhatsApp, ChatGPT, your notes, your friends, your pets…",
+      "The RoE is especially hard. Read:What is the purpose of an impossible RoE exam?"
+    ],
+    [
+      "LLMs will evaluate you differently each time. Learn to prompt themrobustlyto get higher marks."
+    ],
+    [
+      "Seek Inboxfor Course Announcements. Log intoseek.onlinedegree.iitm.ac.inand click on “Inbox” on the left. Check notifications daily.",
+      "Your emailfor Course Announcements.SeekInbox are forwarded to your email. Check daily. Check spam folders too.",
+      "TDS Discourse: Faculty, instructors, and TAs will share updates and address queries here. Emailsupport@study.iitm.ac.incc:discourse-staff1@study.iitm.ac.inif you can’t access Discourse."
+    ],
+    [
+      "Faculty(who design the course)Anand S,s.anand@gramener.com|@s.anand",
+      "Anand S,s.anand@gramener.com|@s.anand",
+      "Instructors(who teach the course)Carlton D’Silva.22f3001919@ds.study.iitm.ac.in|@carltonPrasanna S,prasanna@study.iitm.ac.in|@iamprasna",
+      "Carlton D’Silva.22f3001919@ds.study.iitm.ac.in|@carlton",
+      "Prasanna S,prasanna@study.iitm.ac.in|@iamprasna",
+      "Teaching assistants(who help you with your doubts)Jivraj Singh,22f3002542@ds.study.iitm.ac.in|@Jivraj|LinkedIn ProfileSaransh Saini,22f1001123@ds.study.iitm.ac.in|@Saransh_Saini|LinkedIn ProfileVirtual TA(GPT Instructions)",
+      "Jivraj Singh,22f3002542@ds.study.iitm.ac.in|@Jivraj|LinkedIn Profile",
+      "Saransh Saini,22f1001123@ds.study.iitm.ac.in|@Saransh_Saini|LinkedIn Profile",
+      "Virtual TA(GPT Instructions)"
+    ],
+    [
+      "Anand S,s.anand@gramener.com|@s.anand"
+    ],
+    [
+      "Carlton D’Silva.22f3001919@ds.study.iitm.ac.in|@carlton",
+      "Prasanna S,prasanna@study.iitm.ac.in|@iamprasna"
+    ],
+    [
+      "Jivraj Singh,22f3002542@ds.study.iitm.ac.in|@Jivraj|LinkedIn Profile",
+      "Saransh Saini,22f1001123@ds.study.iitm.ac.in|@Saransh_Saini|LinkedIn Profile",
+      "Virtual TA(GPT Instructions)"
+    ],
+    [
+      "TDS Discourse- Ask questions, get help, and discuss with your peers.",
+      "IITM BS Degree Programme - Student Handbook",
+      "Tools in Data Science Public course home page"
+    ],
+    [
+      "Jan 2025 Grading Document.",
+      "TDS: Course page - Jan 2025– for students to access course content.",
+      "TDS: Course calendar - Jan 2025",
+      "TDS: Announcement group - Jan 2025",
+      "TDS: Course material– Jupyter notebooks, datasets, etc.",
+      "TDS: TA Sessions - Jan 2025– YouTube playlist"
+    ]
+  ],
+  "tables": [
+    [
+      [
+        "Exam",
+        "Type",
+        "Weight",
+        "Release Date",
+        "Submission Date"
+      ],
+      [
+        "GA: Graded assignments",
+        "Best 4 out of 7 ‡",
+        "15%",
+        "",
+        ""
+      ],
+      [
+        "Graded Assignment 1",
+        "Online open MCQ",
+        "",
+        "30 Dec 2024",
+        "26 Jan 2025"
+      ],
+      [
+        "Graded Assignment 2",
+        "Online open MCQ",
+        "",
+        "3 Jan 2025",
+        "2 Feb 2025"
+      ],
+      [
+        "Graded Assignment 3",
+        "Online open MCQ",
+        "",
+        "15 Jan 2025",
+        "5 Feb 2025"
+      ],
+      [
+        "Graded Assignment 4",
+        "Online open MCQ",
+        "",
+        "31 Jan 2025",
+        "9 Feb 2025"
+      ],
+      [
+        "P1: Project 1",
+        "Take-home open-Internet",
+        "20%",
+        "19 Jan 2025",
+        "16 Feb 2025"
+      ],
+      [
+        "Graded Assignment 5",
+        "Online open MCQ",
+        "",
+        "7 Feb 2025",
+        "21 Feb 2025"
+      ],
+      [
+        "Graded Assignment 6",
+        "Online open MCQ",
+        "",
+        "28 Feb 2025",
+        "16 Mar 2025"
+      ],
+      [
+        "P2: Project 2",
+        "Take-home open-Internet",
+        "20%",
+        "3 Mar 2025",
+        "31 Mar 2025"
+      ],
+      [
+        "Graded Assignment 7",
+        "Online open MCQ",
+        "",
+        "14 Mar 2025",
+        "26 Mar 2025"
+      ],
+      [
+        "ROE: Remote Online Exam",
+        "Online open-Internet MCQ",
+        "20%",
+        "02 Mar 2025 13:00",
+        "02 Mar 2025 13:45"
+      ],
+      [
+        "F: Final end-term",
+        "In-person, no internet, mandatory",
+        "25%",
+        "13 Apr 2025",
+        ""
+      ]
+    ]
+  ],
+  "links": [
+    {
+      "text": "Tools in Data Science",
+      "url": "/"
+    },
+    {
+      "text": "Jan 2025: Tools in Data Science",
+      "url": "#/README"
+    },
+    {
+      "text": "Development Tools",
+      "url": "#/../development-tools"
+    },
+    {
+      "text": "Editor: VS Code",
+      "url": "#/../vscode"
+    },
+    {
+      "text": "Python tools: uv",
+      "url": "#/../uv"
+    },
+    {
+      "text": "JavaScript tools: npx",
+      "url": "#/../npx"
+    },
+    {
+      "text": "Unicode",
+      "url": "#/../unicode"
+    },
+    {
+      "text": "Browser: DevTools",
+      "url": "#/../devtools"
+    },
+    {
+      "text": "CSS Selectors",
+      "url": "#/../css-selectors"
+    },
+    {
+      "text": "JSON",
+      "url": "#/../json"
+    },
+    {
+      "text": "Terminal: Bash",
+      "url": "#/../bash"
+    },
+    {
+      "text": "Spreadsheet: Excel, Google Sheets",
+      "url": "#/../spreadsheets"
+    },
+    {
+      "text": "Database: SQLite",
+      "url": "#/../sqlite"
+    },
+    {
+      "text": "Version Control: Git, GitHub",
+      "url": "#/../git"
+    },
+    {
+      "text": "Deployment Tools",
+      "url": "#/../deployment-tools"
+    },
+    {
+      "text": "Markdown",
+      "url": "#/../markdown"
+    },
+    {
+      "text": "Images: Compression",
+      "url": "#/../image-compression"
+    },
+    {
+      "text": "Static hosting: GitHub Pages",
+      "url": "#/../github-pages"
+    },
+    {
+      "text": "Notebooks: Google Colab",
+      "url": "#/../colab"
+    },
+    {
+      "text": "Serverless hosting: Vercel",
+      "url": "#/../vercel"
+    },
+    {
+      "text": "CI/CD: GitHub Actions",
+      "url": "#/../github-actions"
+    },
+    {
+      "text": "Containers: Docker, Podman",
+      "url": "#/../docker"
+    },
+    {
+      "text": "Tunneling: ngrok",
+      "url": "#/../ngrok"
+    },
+    {
+      "text": "CORS",
+      "url": "#/../cors"
+    },
+    {
+      "text": "REST APIs",
+      "url": "#/../rest-apis"
+    },
+    {
+      "text": "Web Framework: FastAPI",
+      "url": "#/../fastapi"
+    },
+    {
+      "text": "Local LLMs: Llamafile",
+      "url": "#/../llamafile"
+    },
+    {
+      "text": "Large Language Models",
+      "url": "#/../large-language-models"
+    },
+    {
+      "text": "Prompt engineering",
+      "url": "#/../prompt-engineering"
+    },
+    {
+      "text": "TDS TA Instructions",
+      "url": "#/../tds-ta-instructions"
+    },
+    {
+      "text": "TDS GPT Reviewer",
+      "url": "#/../tds-gpt-reviewer"
+    },
+    {
+      "text": "LLM Sentiment Analysis",
+      "url": "#/../llm-sentiment-analysis"
+    },
+    {
+      "text": "LLM Text Extraction",
+      "url": "#/../llm-text-extraction"
+    },
+    {
+      "text": "Base 64 Encoding",
+      "url": "#/../base64-encoding"
+    },
+    {
+      "text": "Vision Models",
+      "url": "#/../vision-models"
+    },
+    {
+      "text": "Embeddings",
+      "url": "#/../embeddings"
+    },
+    {
+      "text": "Topic modeling",
+      "url": "#/../topic-modeling"
+    },
+    {
+      "text": "Vector databases",
+      "url": "#/../vector-databases"
+    },
+    {
+      "text": "Retrieval Augmented Generation",
+      "url": "#/../retrieval-augmented-generation"
+    },
+    {
+      "text": "Function Calling",
+      "url": "#/../function-calling"
+    },
+    {
+      "text": "Project 1",
+      "url": "#/../project-1"
+    },
+    {
+      "text": "Data Sourcing",
+      "url": "#/../data-sourcing"
+    },
+    {
+      "text": "Scraping with Excel",
+      "url": "#/../scraping-with-excel"
+    },
+    {
+      "text": "Scraping with Google Sheets",
+      "url": "#/../scraping-with-google-sheets"
+    },
+    {
+      "text": "BBC Weather API with Python",
+      "url": "#/../bbc-weather-api-with-python"
+    },
+    {
+      "text": "Scraping IMDb with JavaScript",
+      "url": "#/../scraping-imdb-with-javascript"
+    },
+    {
+      "text": "Nominatim API with Python",
+      "url": "#/../nominatim-api-with-python"
+    },
+    {
+      "text": "Wikipedia Data with Python",
+      "url": "#/../wikipedia-data-with-python"
+    },
+    {
+      "text": "Scraping PDFs with Tabula",
+      "url": "#/../scraping-pdfs-with-tabula"
+    },
+    {
+      "text": "Convert PDFs to Markdown",
+      "url": "#/../convert-pdfs-to-markdown"
+    },
+    {
+      "text": "LLM Website Scraping",
+      "url": "#/../llm-website-scraping"
+    },
+    {
+      "text": "LLM Video Screen-Scraping",
+      "url": "#/../llm-video-screen-scraping"
+    },
+    {
+      "text": "Scheduled Scraping with GitHub Actions",
+      "url": "#/../scheduled-scraping-with-github-actions"
+    },
+    {
+      "text": "Scraping emarketer.com",
+      "url": "#/../scraping-emarketer"
+    },
+    {
+      "text": "Scraping: Live Sessions",
+      "url": "#/../scraping-live-sessions"
+    },
+    {
+      "text": "Data Preparation",
+      "url": "#/../data-preparation"
+    },
+    {
+      "text": "Data Cleansing in Excel",
+      "url": "#/../data-cleansing-in-excel"
+    },
+    {
+      "text": "Data Transformation in Excel",
+      "url": "#/../data-transformation-in-excel"
+    },
+    {
+      "text": "Splitting Text in Excel",
+      "url": "#/../splitting-text-in-excel"
+    },
+    {
+      "text": "Data Aggregation in Excel",
+      "url": "#/../data-aggregation-in-excel"
+    },
+    {
+      "text": "Data Preparation in the Shell",
+      "url": "#/../data-preparation-in-the-shell"
+    },
+    {
+      "text": "Data Preparation in the Editor",
+      "url": "#/../data-preparation-in-the-editor"
+    },
+    {
+      "text": "Cleaning Data with OpenRefine",
+      "url": "#/../cleaning-data-with-openrefine"
+    },
+    {
+      "text": "Profiling Data with Python",
+      "url": "#/../profiling-data-with-python"
+    },
+    {
+      "text": "Parsing JSON",
+      "url": "#/../parsing-json"
+    },
+    {
+      "text": "Transforming Images",
+      "url": "#/../transforming-images"
+    },
+    {
+      "text": "Extracting Audio and Transcripts",
+      "url": "#/../extracting-audio-and-transcripts"
+    },
+    {
+      "text": "Data Analysis",
+      "url": "#/../data-analysis"
+    },
+    {
+      "text": "Correlation with Excel",
+      "url": "#/../correlation-with-excel"
+    },
+    {
+      "text": "Regression with Excel",
+      "url": "#/../regression-with-excel"
+    },
+    {
+      "text": "Forecasting with Excel",
+      "url": "#/../forecasting-with-excel"
+    },
+    {
+      "text": "Outlier Detection with Excel",
+      "url": "#/../outlier-detection-with-excel"
+    },
+    {
+      "text": "Data Analysis with Python",
+      "url": "#/../data-analysis-with-python"
+    },
+    {
+      "text": "Data Analysis with SQL",
+      "url": "#/../data-analysis-with-sql"
+    },
+    {
+      "text": "Data Analysis with DuckDB",
+      "url": "#/../data-analysis-with-duckdb"
+    },
+    {
+      "text": "Geospatial Analysis with Excel",
+      "url": "#/../geospatial-analysis-with-excel"
+    },
+    {
+      "text": "Geospatial Analysis with Python",
+      "url": "#/../geospatial-analysis-with-python"
+    },
+    {
+      "text": "Geospatial Analysis with QGIS",
+      "url": "#/../geospatial-analysis-with-qgis"
+    },
+    {
+      "text": "Network Analysis in Python",
+      "url": "#/../network-analysis-in-python"
+    },
+    {
+      "text": "Visualizing Machine Learning",
+      "url": "#/../visualizing-machine-learning"
+    },
+    {
+      "text": "Project 2",
+      "url": "#/../project-2"
+    },
+    {
+      "text": "Data Visualization",
+      "url": "#/../data-visualization"
+    },
+    {
+      "text": "Visualizing Forecasts with Excel",
+      "url": "#/../visualizing-forecasts-with-excel"
+    },
+    {
+      "text": "Visualizing Animated Data with PowerPoint",
+      "url": "#/../visualizing-animated-data-with-powerpoint"
+    },
+    {
+      "text": "Visualizing Animated Data with Flourish",
+      "url": "#/../visualizing-animated-data-with-flourish"
+    },
+    {
+      "text": "Visualizing Network Data with Kumu",
+      "url": "#/../visualizing-network-data-with-kumu"
+    },
+    {
+      "text": "Visualizing Charts with Excel",
+      "url": "#/../visualizing-charts-with-excel"
+    },
+    {
+      "text": "Data Visualization with Seaborn",
+      "url": "#/../data-visualization-with-seaborn"
+    },
+    {
+      "text": "Google Charts",
+      "url": "#/../google-charts"
+    },
+    {
+      "text": "Google Data Studio",
+      "url": "#/../google-data-studio"
+    },
+    {
+      "text": "Actor Network Visualization",
+      "url": "#/../actor-network-visualization"
+    },
+    {
+      "text": "RAWgraphs",
+      "url": "#/../rawgraphs"
+    },
+    {
+      "text": "Data Storytelling",
+      "url": "#/../data-storytelling"
+    },
+    {
+      "text": "Interactive Notebooks: Marimo",
+      "url": "#/../marimo"
+    },
+    {
+      "text": "Narratives with Excel",
+      "url": "#/../narratives-with-excel"
+    },
+    {
+      "text": "Narratives with Comics",
+      "url": "#/../narratives-with-comics"
+    },
+    {
+      "text": "Live Sessions",
+      "url": "#/../live-sessions"
+    },
+    {
+      "text": "15 Jan 2025",
+      "url": "#/../live-session-2025-01-15"
+    },
+    {
+      "text": "16 Jan 2025",
+      "url": "#/../live-session-2025-01-16"
+    },
+    {
+      "text": "17 Jan 2025",
+      "url": "#/../live-session-2025-01-17"
+    },
+    {
+      "text": "20 Jan 2025",
+      "url": "#/../live-session-2025-01-20"
+    },
+    {
+      "text": "21 Jan 2025",
+      "url": "#/../live-session-2025-01-21"
+    },
+    {
+      "text": "22 Jan 2025",
+      "url": "#/../live-session-2025-01-22"
+    },
+    {
+      "text": "23 Jan 2025",
+      "url": "#/../live-session-2025-01-23"
+    },
+    {
+      "text": "28 Jan 2025",
+      "url": "#/../live-session-2025-01-28"
+    },
+    {
+      "text": "29 Jan 2025",
+      "url": "#/../live-session-2025-01-29"
+    },
+    {
+      "text": "30 Jan 2025",
+      "url": "#/../live-session-2025-01-30"
+    },
+    {
+      "text": "31 Jan 2025",
+      "url": "#/../live-session-2025-01-31"
+    },
+    {
+      "text": "01 Feb 2025",
+      "url": "#/../live-session-2025-02-01"
+    },
+    {
+      "text": "04 Feb 2025",
+      "url": "#/../live-session-2025-02-04"
+    },
+    {
+      "text": "06 Feb 2025",
+      "url": "#/../live-session-2025-02-06"
+    },
+    {
+      "text": "07 Feb 2025",
+      "url": "#/../live-session-2025-02-07"
+    },
+    {
+      "text": "Tools in Data Science - Jan 2025",
+      "url": "#/2025-01/?id=tools-in-data-science-jan-2025"
+    },
+    {
+      "text": "Tools in Data Science",
+      "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    },
+    {
+      "text": "“We lost the documentation on quantum mechanics. You’ll have to decode the regexes yourself.”",
+      "url": "https://explainxkcd.com/224/"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-based-on-students-opinion/61194"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/difficulty-rating-for-diploma-subjects-2-0-based-on-student-ratings-and-my-experience/85681"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/what-should-i-take-next/44291/6"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-course-feedback-t32024-and-course-selection-t12025-thread/160032/45"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t1-diploma-level-feedback-and-course-selection-for-may-2024-term/127856/60"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/2024-t2-diploma-level-feedback-and-course-selection-for-september-2024-term/144976/62?u=s.anand"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/11"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/4"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/diploma-level-course-combo-suggestion/158460/7"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/concerns-regarding-unfair-grading-practices-for-tds-project-2/160611/10"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/wrong-marks-in-project-2/160355/9"
+    },
+    {
+      "text": "#",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/is-it-fair-to-consider-20-weightage-of-such-exam-which-is-impossible-to-solve-in-given-time-i-e-roe/141413/10"
+    },
+    {
+      "text": "Take Graded assignment 1",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    },
+    {
+      "text": "We cover 7 modules in 12 weeks",
+      "url": "#/2025-01/?id=we-cover-7-modules-in-12-weeks"
+    },
+    {
+      "text": "commit history",
+      "url": "https://github.com/sanand0/tools-in-data-science-public/commits/tds-2025-01/"
+    },
+    {
+      "text": "Development Tools",
+      "url": "#/../development-tools"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083"
+    },
+    {
+      "text": "Deployment Tools",
+      "url": "#/../deployment-tools"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga1-development-tools-discussion-thread-tds-jan-2025/161083"
+    },
+    {
+      "text": "Large Language Models",
+      "url": "#/../large-language-models"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga3-large-language-models-discussion-thread-tds-jan-2025/163247"
+    },
+    {
+      "text": "Data Sourcing",
+      "url": "#/../data-sourcing"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959"
+    },
+    {
+      "text": "Data Preparation",
+      "url": "#/../data-preparation"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-data-preparation-discussion-thread-tds-jan-2025/166576"
+    },
+    {
+      "text": "Project 1",
+      "url": "#/../project-1"
+    },
+    {
+      "text": "Discussion Thread",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/project-1-llm-based-automation-agent-discussion-thread-tds-jan-2025/164277"
+    },
+    {
+      "text": "Data Analysis",
+      "url": "#/../data-analysis"
+    },
+    {
+      "text": "Data Visualization",
+      "url": "#/../data-visualization"
+    },
+    {
+      "text": "Evaluations are mostly open Internet",
+      "url": "#/2025-01/?id=evaluations-are-mostly-open-internet"
+    },
+    {
+      "text": "Graded Assignment 1",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    },
+    {
+      "text": "Graded Assignment 2",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga2"
+    },
+    {
+      "text": "Graded Assignment 3",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga3"
+    },
+    {
+      "text": "Graded Assignment 4",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga4"
+    },
+    {
+      "text": "P1: Project 1",
+      "url": "#/../project-1"
+    },
+    {
+      "text": "Graded Assignment 5",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga5"
+    },
+    {
+      "text": "Graded Assignment 6",
+      "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=25&type=assignment&tab=courses&unitId=23"
+    },
+    {
+      "text": "P2: Project 2",
+      "url": "#/../project-2"
+    },
+    {
+      "text": "Graded Assignment 7",
+      "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002?id=15&type=assignment&tab=courses&unitId=26"
+    },
+    {
+      "text": "ROE: Remote Online Exam",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-roe"
+    },
+    {
+      "text": "Updates",
+      "url": "#/2025-01/?id=updates"
+    },
+    {
+      "text": "Notes",
+      "url": "#/2025-01/?id=notes"
+    },
+    {
+      "text": "Graded Assignment 1",
+      "url": "https://exam.sanand.workers.dev/tds-2025-01-ga1"
+    },
+    {
+      "text": "What is the purpose of an impossible RoE exam?",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/t/whats-the-actual-purpose-of-impossible-roe-exam/99838/2"
+    },
+    {
+      "text": "previous bonus activities",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/tags/c/courses/tds-kb/34/bonus-marks"
+    },
+    {
+      "text": "Constantly check communications",
+      "url": "#/2025-01/?id=constantly-check-communications"
+    },
+    {
+      "text": "Seek Inbox",
+      "url": "https://seek.onlinedegree.iitm.ac.in/"
+    },
+    {
+      "text": "seek.onlinedegree.iitm.ac.in",
+      "url": "https://seek.onlinedegree.iitm.ac.in/"
+    },
+    {
+      "text": "Your email",
+      "url": "https://mail.google.com/"
+    },
+    {
+      "text": "Seek",
+      "url": "https:/seek.onlinedegree.iitm.ac.in/"
+    },
+    {
+      "text": "TDS Discourse",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    },
+    {
+      "text": "support@study.iitm.ac.in",
+      "url": "mailto:support@study.iitm.ac.in"
+    },
+    {
+      "text": "discourse-staff1@study.iitm.ac.in",
+      "url": "mailto:discourse-staff1@study.iitm.ac.in"
+    },
+    {
+      "text": "People who help you",
+      "url": "#/2025-01/?id=people-who-help-you"
+    },
+    {
+      "text": "Anand S",
+      "url": "https://www.linkedin.com/in/sanand0/"
+    },
+    {
+      "text": "s.anand@gramener.com",
+      "url": "mailto:s.anand@gramener.com"
+    },
+    {
+      "text": "@s.anand",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/s.anand"
+    },
+    {
+      "text": "22f3001919@ds.study.iitm.ac.in",
+      "url": "mailto:22f3001919@ds.study.iitm.ac.in"
+    },
+    {
+      "text": "@carlton",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/carlton"
+    },
+    {
+      "text": "Prasanna S",
+      "url": "https://www.linkedin.com/in/prasanna-sugumaran-ab980222/"
+    },
+    {
+      "text": "prasanna@study.iitm.ac.in",
+      "url": "mailto:prasanna@study.iitm.ac.in"
+    },
+    {
+      "text": "@iamprasna",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/iamprasna"
+    },
+    {
+      "text": "22f3002542@ds.study.iitm.ac.in",
+      "url": "mailto:22f3002542@ds.study.iitm.ac.in"
+    },
+    {
+      "text": "@Jivraj",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/jivraj"
+    },
+    {
+      "text": "LinkedIn Profile",
+      "url": "https://www.linkedin.com/in/jivraj-singh-shekhawat-92a547269/"
+    },
+    {
+      "text": "22f1001123@ds.study.iitm.ac.in",
+      "url": "mailto:22f1001123@ds.study.iitm.ac.in"
+    },
+    {
+      "text": "@Saransh_Saini",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/u/Saransh_Saini"
+    },
+    {
+      "text": "LinkedIn Profile",
+      "url": "https://www.linkedin.com/in/saranshsaini48/"
+    },
+    {
+      "text": "Virtual TA",
+      "url": "https://chatgpt.com/g/g-mZqKVxKDx-iitm-tds-teaching-assistant"
+    },
+    {
+      "text": "GPT Instructions",
+      "url": "#/../tds-ta-instructions"
+    },
+    {
+      "text": "Course Links",
+      "url": "#/2025-01/?id=course-links"
+    },
+    {
+      "text": "TDS Discourse",
+      "url": "https://discourse.onlinedegree.iitm.ac.in/c/courses/tds-kb/34"
+    },
+    {
+      "text": "IITM BS Degree Programme - Student Handbook",
+      "url": "https://docs.google.com/document/u/1/d/e/2PACX-1vQB7SYIXQPJr0-WcfekVVSt488MdlkNzRUPacbRh2QgOALXcinPybopWIFlY83tdr_mH1QtrhCIsFUq/pub"
+    },
+    {
+      "text": "Tools in Data Science Public course home page",
+      "url": "https://study.iitm.ac.in/ds/course_pages/BSSE2002.html"
+    },
+    {
+      "text": "Jan 2025 Links",
+      "url": "#/2025-01/?id=jan-2025-links"
+    },
+    {
+      "text": "Jan 2025 Grading Document",
+      "url": "[https://docs.google.com/document/d/1e1l9ERBGYoS2jhKZHcTP6zZUH_NLzJv99xdcyi21Z1Y/pub](https://docs.google.com/document/d/e/2PACX-1vRBH1NuM3ML6MH5wfL2xPiPsiXV0waKlUUEj6C7LrHrARNUsAEA1sT2r7IHcFKi8hvQ45gSrREnFiTT/pub"
+    },
+    {
+      "text": "TDS: Course page - Jan 2025",
+      "url": "https://seek.onlinedegree.iitm.ac.in/courses/ns_25t1_se2002"
+    },
+    {
+      "text": "TDS: Course calendar - Jan 2025",
+      "url": "https://calendar.google.com/calendar/u/0/r?cid=Y19ib2Y3bnMxbDduNm84azA1dHA4YTlxNWIwZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t"
+    },
+    {
+      "text": "TDS: Announcement group - Jan 2025",
+      "url": "https://groups.google.com/a/study.iitm.ac.in/g/25t1_se2002-announce"
+    },
+    {
+      "text": "TDS: Course material",
+      "url": "https://drive.google.com/drive/folders/1FE0YPAxcxMzZdjnp3FopuJCI3A2Vq6fC?usp=drive_link"
+    },
+    {
+      "text": "TDS: TA Sessions - Jan 2025",
+      "url": "https://www.youtube.com/playlist?list=PL_h5u1jMeBCl1BquBhgunA4t08XAxsA-C"
+    }
+  ]
+}
