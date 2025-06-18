@@ -7,7 +7,7 @@ COPY requirements.txt /workspace/requirements.txt
 RUN pip install --no-cache-dir -r /workspace/requirements.txt
 
 # Expose the port uvicorn will use
-EXPOSE 8000
+EXPOSE 10000
 
 # Set the default working directory
 WORKDIR /workspace
