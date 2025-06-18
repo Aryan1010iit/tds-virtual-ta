@@ -9,12 +9,17 @@ app = FastAPI()
 
 class QuestionRequest(BaseModel):
     question: str
-    image: Optional[str] = None   # base64‐encoded screenshot
+    image: Optional[str] = None
 
-@app.post("/", response_model=dict)
+# ← New health-check GET endpoint
+@app.get("/", tags=["health"])
+def health_check():
+    return {"status": "ok", "message": "TDS Virtual TA is running"}
+
+# ← Your existing POST endpoint
+@app.post("/", response_model=dict, tags=["qa"])
 async def answer_question(req: QuestionRequest):
     try:
-        # you could decode/ocr req.image here, if desired
         return get_answer_and_links(req.question)
     except Exception as e:
         detail = str(e).lower()
