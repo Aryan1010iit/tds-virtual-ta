@@ -1,13 +1,20 @@
-# .devcontainer/Dockerfile  (or your root Dockerfile)
+# Dockerfile
 
-FROM mcr.microsoft.com/devcontainers/python:0-3.12
+# 1. Base image
+FROM python:3.12-slim
 
-# Copy and install dependencies
-COPY requirements.txt /workspace/requirements.txt
-RUN pip install --no-cache-dir -r /workspace/requirements.txt
+# 2. Set working dir
+WORKDIR /app
 
-# Expose the port uvicorn will use
-EXPOSE 10000
+# 3. Copy & install dependencies
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Set the default working directory
-WORKDIR /workspace
+# 4. Copy your code
+COPY . .
+
+# 5. Expose port (must match your start command)
+EXPOSE 8000
+
+# 6. Start the FastAPI server
+CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "8000"]
